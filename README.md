@@ -3,7 +3,7 @@
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
 </a>
 
-<h1 align="center"><img width="40" src="svg/mastery7.png" /> Technologies and Tools <img width="40" src="svg/mastery7.png" /></h1>
+<h2 align="center"><img width="40" src="svg/mastery7.png" /> Technologies and Tools <img width="40" src="svg/mastery7.png" /></h2>
 <br>
 <!-- https://simpleicons.org/ -->
 
@@ -55,7 +55,7 @@
 
 
 <br>
-<h1 align="center"><img width="40" src="svg/killitwithfire.gif" /> GitHub Stats <img width="40" src="svg/killitwithfire2.gif" /></h1>
+<h1 align="center"><img width="40" src="svg/blue-fire.gif" /> GitHub Stats <img width="40" src="svg/blue-fire.gif" /></h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
@@ -68,7 +68,7 @@
 </div>
 
 <br>
-<h1 align="center"><img width="50" src="svg/happycat.gif" /> Where to find me <img width="50" src="svg/happycat.gif" /></h1>
+<h2 align="center"><img width="50" src="svg/happycat.gif" /> Where to find me <img width="50" src="svg/happycat.gif" /></h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
@@ -115,7 +115,7 @@
 </a>
 -->
 <br> 
-<h1 align="center">📑 My Favorites Quotes 📑</h1>
+<h2 align="center">📑 My Favorites Quotes 📑</h2>
 <br>
 
 <div align="center">
