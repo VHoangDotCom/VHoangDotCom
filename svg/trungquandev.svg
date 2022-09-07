@@ -41,7 +41,7 @@
           border-radius: 50%;
           width: 240px;
           height: 240px;
-          animation: spinAround 7s linear 0s infinite alternate;
+          animation: spinAround 8s linear 0s infinite alternate;
           box-shadow: 0 0 25px RGBA(255,255,255, 0.25),
                     -8px -8px 15px #000 inset,
                     2px 2px 25px #000 inset,
