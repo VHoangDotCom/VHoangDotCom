@@ -29,9 +29,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/jQuery-282C34?logo=jquery&logoColor=0769AD" alt="jQuery logo" title="jQuery" height="25" /></span>
 &nbsp;
 
 <!-- Backend Enhance -->
@@ -53,6 +53,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/My_SQL-282C34?logo=mySQL&logoColor=4479A1" alt="My SQL logo" title="My SQL" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+&nbsp;
 
 <!-- More Tools -->
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
@@ -62,6 +64,8 @@
 <span><img src="https://img.shields.io/badge/Blender-282C34?logo=blender&logoColor=F5792A" alt="Blender logo" title="Blender" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Blender logo" title="Postman" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Diagram.io-282C34?logo=diagrams.net&logoColor=F08705" alt="Diagram logo" title="Diagram" height="25" /></span>
 &nbsp;
 
 
