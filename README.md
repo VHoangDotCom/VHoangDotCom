@@ -46,10 +46,12 @@
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 
-<!-- SQL -->
+<!-- Java + SQL -->
 <span><img src="https://img.shields.io/badge/Microsoft_Azure-282C34?logo=microsoftAzure&logoColor=0078D4" alt="Microsoft Azure logo" title="Microsoft Azure" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Microsoft_SQL_Server-282C34?logo=microsoft-sql-server&logoColor=0078D4" alt="Microsoft_SQL_Server logo" title="Microsoft SQL Server" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Spring_Boot-282C34?logo=spring-boot&logoColor=6DB33F" alt="Spring Boot logo" title="Spring Boot" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Spring_Security-282C34?logo=spring-security&logoColor=6DB33F" alt="Spring Security logo" title="Spring Security" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/My_SQL-282C34?logo=mySQL&logoColor=4479A1" alt="My SQL logo" title="My SQL" height="25" /></span>
 &nbsp;
