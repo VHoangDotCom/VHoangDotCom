@@ -3,10 +3,12 @@
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
 </a>
 
+<br>
 <h2 align="center"><img width="40" src="svg/mastery7.png" /> Technologies and Tools <img width="40" src="svg/mastery7.png" /></h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <!-- Basic Knowledge -->
+
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
