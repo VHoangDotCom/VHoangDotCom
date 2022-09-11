@@ -90,6 +90,27 @@
 </div>
 
 <br>
+
+<h2 align="center"><img width="40" src="svg/nani.png" /> OMG! This f*kin snake is eating all my contributions! <img width="40" src="svg/nani.png" /></h2>
+<br>
+<div align="center">
+
+![snake gif](https://github.com/VHoangDotCom/VHoangDotCom/blob/output/github-contribution-grid-snake.gif)
+
+</div>
+
+
+<br> 
+<h2 align="center"><img width="40" src="svg/politecat.png" /> My Favorites Quotes <img width="40" src="svg/politecat.png" /></h2>
+<br>
+
+<div align="center">
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=Gabrielle)
+
+</div>
+
+<br>
 <h2 align="center"><img width="50" src="svg/happycat.gif" /> Where to find me <img width="50" src="svg/happycat.gif" /></h2>
 <br>
 <!-- https://icons8.com -->
@@ -137,21 +158,5 @@
 </a>
 -->
 
-<br> 
-<h2 align="center"><img width="40" src="svg/politecat.png" /> My Favorites Quotes <img width="40" src="svg/politecat.png" /></h2>
-<br>
 
-<div align="center">
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=Gabrielle)
-
-</div>
-<br>
-
-<h2 align="center"><img width="40" src="svg/nani.png" /> OMG! This f*kin snake is eating all my contributions! <img width="40" src="svg/nani.png" /></h2>
-<br>
-<div align="center">
-
-![snake gif](https://github.com/VHoangDotCom/VHoangDotCom/blob/output/github-contribution-grid-snake.gif)
-
-</div>
