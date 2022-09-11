@@ -136,8 +136,9 @@
   <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
 </a>
 -->
+
 <br> 
-<h2 align="center">📑 My Favorites Quotes 📑</h2>
+<h2 align="center"><img width="40" src="svg/politecat.png" /> My Favorites Quotes <img width="40" src="svg/politecat.png" /></h2>
 <br>
 
 <div align="center">
@@ -147,7 +148,7 @@
 </div>
 <br>
 
-<h2 align="center">📑 OMG! This f*kin snake is eating all my contribution! 📑</h2>
+<h2 align="center"><img width="40" src="svg/nani.png" /> OMG! This f*kin snake is eating all my contributions! <img width="40" src="svg/nani.png" /></h2>
 <br>
 <div align="center">
 
