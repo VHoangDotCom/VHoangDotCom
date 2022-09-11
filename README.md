@@ -77,7 +77,7 @@
 
 
 <br>
-<h1 align="center"><img width="40" src="svg/blue-fire.gif" /> GitHub Stats <img width="40" src="svg/blue-fire.gif" /></h2>
+<h2 align="center"><img width="40" src="svg/blue-fire.gif" /> GitHub Stats <img width="40" src="svg/blue-fire.gif" /></h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
@@ -91,7 +91,7 @@
 
 <br>
 
-<h2 align="center"><img width="40" src="svg/nani.png" /> OMG! This f*kin snake is eating all my contributions! <img width="40" src="svg/nani.png" /></h2>
+<h2 align="center"><img width="40" src="svg/anya-sad.gif" /> OMG! This f*kin snake is eating all my contributions! <img width="40" src="svg/anya-sad.gif" /></h2>
 <br>
 <div align="center">
 
@@ -101,7 +101,7 @@
 
 
 <br> 
-<h2 align="center"><img width="40" src="svg/politecat.png" /> My Favorites Quotes <img width="40" src="svg/politecat.png" /></h2>
+<h2 align="center"><img width="40" src="svg/peeponerd.gif" /> My Favorites Quotes <img width="40" src="svg/peeponerd.gif" /></h2>
 <br>
 
 <div align="center">
