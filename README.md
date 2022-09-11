@@ -145,4 +145,12 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=Gabrielle)
 
 </div>
+<br>
 
+<h2 align="center">📑 OMG! This f*kin snake is eating all my contribution! 📑</h2>
+<br>
+<div align="center">
+
+![snake gif](https://github.com/VHoangDotCom/VHoangDotCom/blob/output/github-contribution-grid-snake.gif)
+
+</div>
